@@ -1,0 +1,23 @@
+# Core data science
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+imbalanced-learn==0.12.3
+
+# Quantum stack (exact versions from notebook)
+qiskit==1.2.4
+qiskit-aer==0.15.1
+qiskit-machine-learning==0.7.2
+qiskit-algorithms==0.3.0
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Utilities
+optuna==3.6.1
+joblib==1.4.2
+
+# Google Colab
+jupyter==1.0.0
+nbconvert==7.16.4
